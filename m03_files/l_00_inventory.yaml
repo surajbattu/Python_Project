@@ -1,0 +1,13 @@
+-   ip: 10.0.0.23
+    model: Mac_Air
+    name: abCd-ef-4X
+    os: Catalina
+    vendor: apple
+    version:
+        a: 8.2
+-   ip: 10.0.0.23
+    model: windows
+    name: axyz-ef-4X
+    os: XP
+    vendor: MS
+    version: ''
